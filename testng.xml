@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="retailweb_testCases.AAT_PP_09_EditOfLOLtoDiffStudyMethods"/>
+      <class name="retailweb_testCases.AAT_PP_06_AllStudyMethods"/>
+      <class name="retailweb_testCases.AAT_PP_12_EditClassroomStartDate"/>
+      <class name="retailweb_testCases.AAT_PP_14_CalendarUIValidation"/>
+      <class name="retailweb_testCases.AAT_PP_19_VerifyWorkEmail"/>
+      <class name="retailweb_testCases.AAT_PP_08_EditOfClassroomtoDiffStudyMethodsanddifflocation"/>
+      <class name="retailweb_testCases.AAT_PP_14_KaplanHomePage"/>
+      <class name="retailweb_testCases.AAT_PP_13_EditLOLStartDate"/>
+      <class name="retailweb_testCases.AAT_PP_16_CreditCardPayment"/>
+      <class name="retailweb_testCases.AAT_PP_07_SSORegistration_RetailWeb"/>
+      <class name="retailweb_testCases.AAT_PP_10_EditOfDLtodiffStudyMethods"/>
+      <class name="retailweb_testCases.AAT_PP_15_SittingandCourseType"/>
+      <class name="retailweb_testCases.AAT_PP_05_RemoveSubjects"/>
+      <class name="retailweb_testCases.AAT_PP_11_EditOfODtodiffStudyMethods"/>
+      <class name="retailweb_testCases.AAT_PP_20_InvoiceEmployerPayment"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

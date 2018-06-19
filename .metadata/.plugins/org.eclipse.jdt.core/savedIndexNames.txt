@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\TFS\KaplanCoUK\BETA\AutomationTesting\Kaplan_Automation\.metadata\.plugins\org.eclipse.jdt.core
